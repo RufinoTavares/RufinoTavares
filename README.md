@@ -10,7 +10,7 @@
 
 ### 🛠️ Tecnologias e ferramentas
 
-Python | SQL | Excel | Power BI | Git | Machine Learning
+Ciência de Dados | Machine Learning | Python | SQL | Excel | Power BI | Inteligência Artificial
 
 ### 📫 Sobre este espaço
 
